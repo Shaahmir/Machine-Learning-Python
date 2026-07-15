@@ -130,7 +130,7 @@ Machine-Learning-Algorithms-Python
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Machine-Learning-Algorithms-Python.git
+git clone https://github.com/shaahmir/Machine-Learning-Python.git
 ```
 
 Install the required dependencies:
